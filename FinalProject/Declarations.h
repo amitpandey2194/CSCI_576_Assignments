@@ -30,15 +30,6 @@ public:
 	float * dynamicMemoryAllocation1d(unsigned long);
 	unsigned char * dynamicMemoryAllocation1dUC(unsigned long);
 
-
-
-
-
-
-
-
-
-
 };
 
 
